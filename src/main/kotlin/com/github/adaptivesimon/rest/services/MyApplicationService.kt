@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.adaptivesimon.rest.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.adaptivesimon.rest.MyBundle
 
 class MyApplicationService {
 
